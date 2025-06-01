@@ -30,3 +30,4 @@
 /Users/wilsonsantos/Documents/hackettShopAPI_NET/hackettShopAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/wilsonsantos/Documents/hackettShopAPI_NET/hackettShopAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/wilsonsantos/Documents/hackettShopAPI_NET/hackettShopAPI/bin/Debug/net9.0/MySqlConnector.dll
+/Users/wilsonsantos/Documents/hackettShopAPI_NET/hackettShopAPI/obj/Debug/net9.0/hackettShopAPI.sourcelink.json

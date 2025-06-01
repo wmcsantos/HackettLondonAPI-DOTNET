@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hackettShopAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41740089ff0a42bc8e5bea84981fa992bc948d72")]
 [assembly: System.Reflection.AssemblyProductAttribute("hackettShopAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hackettShopAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
